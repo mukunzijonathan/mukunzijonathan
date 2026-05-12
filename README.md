@@ -20,7 +20,7 @@ I'm a Full-stack developer Student with an interest in AI.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-## 📫 How to reach me
+## 📫 You can reach me via:
 - 📧 **Email:** [mukunzijonathan010@gmail.com](mailto:mukunzijonathan010@gmail.com)
 - 💼 **LinkedIn:** [MUKUNZI Jonathan](https://www.linkedin.com/in/mukunzi-jonathan-973aa3312/)
 
